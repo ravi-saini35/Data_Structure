@@ -45,7 +45,7 @@ void main()
 	do
 	{
 	int stack[STACKSIZE];
-	printf("enter your choice whatever you want to do\n");;
+	printf("Enter your choice whatever you want to do\n");;
 	printf("1. for push an element\n");
 	printf("2. for pop an element\n");
 	printf("3. for exit\n");
@@ -55,7 +55,7 @@ void main()
 		case 1:
 		{
 			int element;
-			printf("enter the element which to be pushed");
+			printf("Enter the element which to be pushed");
 			scanf("%d",&element);
 			push(stack,element);
 			display(stack);
@@ -70,9 +70,9 @@ void main()
 			printf("thanks\n");
 		break;
 		default:
-			printf(" invalid number! \ntry again ");
+			printf(" Invalid number! \nTry again ");
 		
 	}
-	}while(choice>=1&&choice<3); 
+	}while(choice>=1 && choice<3); 
 	
 }
