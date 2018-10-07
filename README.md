@@ -1,6 +1,15 @@
-# stack
--This repositary will help you to understand the data structure stack.
-<br /> -In further editions i will provide some more data structures.
-<br /> - Welcome for better suggestions
-  <br />   Thanks
-  <br />   Ravindra Saini
+<br><h1 align = "center">
+Data_Structure!
+ </h1><br>
+ 
+ ------
+    
+- This repositary will help you to understand the data structures.
+- In further editions I will provide some more data structures.
+- Welcome for better suggestions
+  Thank You!
+  <br /> 
+  ------
+  <p align="center">
+  Ravindra Saini
+  </p>
