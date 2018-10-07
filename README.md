@@ -6,9 +6,11 @@ Data_Structure!
     
 - This repositary will help you to understand the data structures.
 - In further editions I will provide some more data structures.
+
 - Welcome for better suggestions
-  Thank You!
-  <br /> 
+
+<br> Thank You! 
+
   ------
   <p align="center">
   Ravindra Saini
