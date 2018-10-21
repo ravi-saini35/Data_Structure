@@ -22,6 +22,7 @@ NODE* getnode()
 	return newnode;
 }
 NODE *root=NULL;
+//code for implimentation of tree without recursion.
 /*
 void insertnode()
 {
@@ -62,6 +63,7 @@ void insertnode()
 	return;
 
 }*/
+// implimentation of binary search tree using recursion.
 void insertnode(NODE *child, NODE *root)
 {
 	if(child->key>root->key)
@@ -86,6 +88,7 @@ void insertnode(NODE *child, NODE *root)
 		return;
 	}
 }
+//tree methods of traversing a binary search tree.
 void preorder(NODE* Root)
 {
 	if(Root==NULL)
